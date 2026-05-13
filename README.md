@@ -7,20 +7,20 @@ My name is Gia Phú. I am a second-year student at UIT, aiming to become an AI E
 
 <br>
 
-![Gia Phú's github stats](https://github-readme-stats.vercel.app/api?username=giaphu39&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Gia Phú's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=giaphu39&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <br>
 
 <a href="https://github.com/giaphu39/movieWeb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giaphu39&repo=movieWeb&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=giaphu39&repo=movieWeb&theme=radical" />
 </a>    
 <a href="https://github.com/giaphu39/mc4ai-project-checkcar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giaphu39&repo=mc4ai-project-checkcar&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=giaphu39&repo=mc4ai-project-checkcar&theme=merko" />
 </a>
 
 <a href="https://github.com/giaphu39/mern_thinkboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giaphu39&repo=mern_thinkboard&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=giaphu39&repo=mern_thinkboard&theme=gruvbox" />
 </a>    
 <a href="https://github.com/giaphu39/CS231_NhapMonThiGiac_ClassifyBanana">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=giaphu39&repo=CS231_NhapMonThiGiac_ClassifyBanana&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=giaphu39&repo=CS231_NhapMonThiGiac_ClassifyBanana&theme=dark" />
 </a>
